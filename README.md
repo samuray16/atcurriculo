@@ -1,2 +1,2 @@
-# atcurriculo
+# curriculo
 

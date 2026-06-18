@@ -1,27 +1,21 @@
 
 .dadospessoais{
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 30px;
     text-align: center;
-    align-items: center;
-    border: 10px solid black;
-    border-radius: 100px;
+
+    
 }
 
 .nome{
-    border-radius: 100px;
     text-align: center;
     font-size: larger;
     height: 200px;
     display: flex;
     justify-content: center;
-    background-color: rgb(14, 13, 13);
     color: white;
+    margin-top: 0px;
 
 }
 .dados{
-    border-radius: 100px;
     text-align: center;
     display:flexbox;
     margin: 20px;
@@ -30,6 +24,13 @@
     padding: 20px;
     margin: auto;
 
+}
+.container {
+    border: solid 10px black;
+    max-width: 600px;
+    margin: 0 auto 20px auto;
+    
+   
 }
 
 

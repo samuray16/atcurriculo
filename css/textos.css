@@ -1,37 +1,38 @@
-
-.dadospessoais{
-    text-align: center;
-
-    
+ .header-nome {
+     text-align: center;
+     border-bottom: 2px solid #36698c;
+     padding-bottom: 15px;
+     margin-bottom: 25px;
 }
-
-.nome{
-    text-align: center;
-    font-size: larger;
-    height: 200px;
-    display: flex;
-    justify-content: center;
-    color: white;
-    margin-top: 0px;
-
+.header-nome h1 {
+     margin: 0;
+     color: #2c3e50;
+     font-size: 24px;
+     text-transform: uppercase;
+     letter-spacing: 1px;
+}
+.dp{
+     margin-bottom: 25px;
+}
+.dp:last-child {
+    margin-bottom: 0;
+}
+.dp h2 {
+    font-size: 16px;
+    color: #377299;
+    margin: 0 0 10px 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-left: 4px solid #367dad;
+    padding-left: 8px;
 }
 .dados{
-    text-align: center;
-    display:flexbox;
-    margin: 20px;
-    font-size: 30px;
-    align-items: center;
-    padding: 20px;
-    margin: auto;
-
+    margin: 6px 0;
+    color: rgb(45, 43, 43);
+    font-size: 14px;
+    line-height: 1.5;
 }
-.container {
-    border: solid 10px black;
-    max-width: 600px;
-    margin: 0 auto 20px auto;
-    
-   
+.dados b{
+    color: #2d3748;
+    text-transform: capitalize;
 }
-
-
-   

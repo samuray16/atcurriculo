@@ -1,4 +1,4 @@
-# Gerador de Currículo (AtCurriculo) 📄✨
+ Currículo (AtCurriculo) 📄✨
 
 Repositório voltado para a criação, estruturação e customização de currículos profissionais utilizando tecnologias web, permitindo uma apresentação limpa, moderna e estruturada de experiências e habilidades.
 
